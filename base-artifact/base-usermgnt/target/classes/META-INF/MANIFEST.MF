@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 14
+Implementation-Title: User Management Security
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor: Some Company, Inc.
+Created-By: Maven Integration for Eclipse
+
